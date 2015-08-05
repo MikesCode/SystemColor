@@ -1,7 +1,7 @@
 /**
  * * **************************************************************************************
  * Copyright MikeTheDev (c) 2015.  All Rights Reserved.
- * Any code contained within SuperStacker (this document), and any associated APIs with similar branding
+ * Any code contained within SystemColor (this document), and any associated APIs with similar branding
  * are the sole property of Michael Petramalo.  Distribution, reproduction, taking sections, or
  * claiming any contents as your own will break the terms of the license, and void any
  * agreements with the third-party, you.
